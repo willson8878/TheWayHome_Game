@@ -15,9 +15,15 @@ EditorBuildSettings:
     path: Assets/3DGamekit/Scenes/Gameplay/Level2.unity
     guid: bfc86215544d6ab42b838135fdd17f21
   - enabled: 1
-    path: Assets/level 1.unity
+    path: 
     guid: 20fabd86813054eebad2d708cb0b3d75
   - enabled: 1
     path: Assets/level1.unity
     guid: c29f726138f804c109edbebd839a623b
+  - enabled: 1
+    path: Assets/StartLevel.unity
+    guid: 85b8300b605e24fbc86e42699c335e9e
+  - enabled: 1
+    path: Assets/level K .unity
+    guid: a88dc32e88d6549cc9242a4338516d25
   m_configObjects: {}
