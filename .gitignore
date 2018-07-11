@@ -38,3 +38,5 @@ sysinfo.txt
 *.apk
 *.unitypackage
 TheWayHome/ProjectSettings/ProjectVersion.txt
+TheWayHome/Assets/ProBuilder Data.meta
+TheWayHome/Assets/Scripts.meta
